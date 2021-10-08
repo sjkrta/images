@@ -34,23 +34,6 @@ Twitter
 * JavaScript
 * Web design and development
 
-### MORE:
-
-- 🔭 I’m currently working on ...
-Django & React
-
-- 👯 I’m looking to collaborate on ...
-Python / Django / React / JavaScript
-
-- 💬 Ask me about ...
-Python / Django / GitHub / React / Javascript
-
-
-- 📫 How to reach me: ...<a href="https://twitter.com/thapasurajk">Click Here</a>
-
-- ⚡ Fun fact: ...
-I play volleyball too. 
-
 
 ### My Github stats:
 
