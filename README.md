@@ -5,11 +5,6 @@
 
 ## Links to my social sites:
 
-<a href="https://www.facebook.com/sjkrta/">
-    Facebook
-</a>
-<br>
-
 <a href="https://www.linkedin.com/in/sjkrta/">
 LinkedIn
 </a>
@@ -19,21 +14,6 @@ LinkedIn
 Youtube
 </a>
 <br>
-
-<a href="https://twitter.com/sjkrta">
-Twitter
-</a>
-<br>
-<br>
-
-
-### I work on projects based in following topics:
-* Python 
-* Django
-* React
-* JavaScript
-* Web design and development
-
 
 ### My Github stats:
 
